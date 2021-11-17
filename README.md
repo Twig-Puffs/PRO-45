@@ -1,1 +1,1 @@
-# PRO-45
+# project-template-kangaroo-2
